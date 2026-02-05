@@ -7,11 +7,10 @@ body {
 	display: flex;
 	flex-direction: column;
 	min-height: 100vh;
-	color: #000000;
 }
 
 .fa-magnifying-glass {
-	color: white;
+	color: black;
 }
 
 .flex-center {
@@ -41,7 +40,7 @@ body {
 
 #uv-error {
 	color: #ff6666 !important;
-	white-space: pre-wrap;
+	black-space: pre-wrap;
 }
 
 #uv-error-code {
@@ -51,7 +50,7 @@ body {
 }
 
 #uv-register-sw {
-	color: white;
+	color: black;
 	background: #555555;
 	cursor: pointer;
 	outline: none;
@@ -80,7 +79,7 @@ body {
 }
 
 .logo-wrapper h1 {
-	color: white;
+	color: black;
 }
 
 footer {
@@ -160,7 +159,7 @@ footer a:hover {
 
 .credit a,
 .credit label {
-	color: white;
+	color: black;
 	text-decoration: underline;
 	text-align: right;
 }
